@@ -22,7 +22,6 @@ const Navigation = props => (
         <div className="container-fluid">
             {props.children}
         </div>
- 
     </div>
 );
 
